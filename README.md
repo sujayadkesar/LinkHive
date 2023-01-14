@@ -88,3 +88,11 @@ https://www.flipkart.com/mobile-phones-store?fm=neo%2Fmerchandising&iid=M_e888df
 
 https://www.flipkart.com/tvs-and-appliances-new-clp-store?fm=neo%2Fmerchandising&iid=M_e888df77-2d70-44d9-bb99-2084359d86ab_1_372UD5BXDFYS_MC.LO4IWVHA61BX&otracker=hp_rich_navigation_6_1.navigationCard.RICH_NAVIGATION_Appliances_LO4IWVHA61BX&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_6_L0_view-all&cid=LO4IWVHA61BX
 ```
+
+
+
+### Licensing
+
+This project is licensed under the [MIT license](LICENSE).
+
+![MIT License](https://danielmiessler.com/images/mitlicense.png)
