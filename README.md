@@ -1,6 +1,6 @@
 <img width="350" height="350" style="padding-left:50px;" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/212470344-2c30f10f-6331-4c46-b0b8-d8e2a2be9327.png">
 
-Welcome to LinkHive 🐝
+# Welcome to LinkHive 🐝
 The ultimate tool for gathering all the links for a given website!
 
 With LinkHive, you can easily and efficiently crawl any website to collect all of its links. Whether you're a developer looking to analyze a website's structure, a marketer looking to research your competitors, or just someone who wants to save all the links from a favorite website, LinkHive has got you covered.
@@ -9,19 +9,7 @@ Our user-friendly interface makes it simple to input a website URL and get a lis
 
 Don't waste hours manually collecting links one by one. Let LinkHive do the heavy lifting for you 💪 and make your online research more efficient. Give it a try and see the difference for yourself.
 
-Ready to start crawling? Try LinkHive now! 🚀
-
-Contribution 🤝
-If you're interested in contributing to the development of LinkHive, we would love to have you on board! We are constantly looking for ways to improve and add new features, and your contributions can help make LinkHive even more powerful and useful.
-
-Here are a few ways you can contribute to the project:
-
-Report bugs or request new features by creating an issue on our GitHub repository.🐛
-Help us improve the documentation by submitting updates or corrections.📚
-Contribute code by submitting pull requests with bug fixes or new features.💻
-Share LinkHive with your friends, colleagues, and on social media to help spread the word and grow the community.📣
-No matter how you choose to contribute, your help is greatly appreciated! Together, we can make LinkHive the best tool for collecting website links. Thank you for your support! 🙏
-
+Ready to start crawling? Try [LinkHive](https://github.com/sujayadkesar/LinkHive) now! 🚀
 
 
 ## Installation 
@@ -108,6 +96,17 @@ https://www.flipkart.com/mobile-phones-store?fm=neo%2Fmerchandising&iid=M_e888df
 https://www.flipkart.com/tvs-and-appliances-new-clp-store?fm=neo%2Fmerchandising&iid=M_e888df77-2d70-44d9-bb99-2084359d86ab_1_372UD5BXDFYS_MC.LO4IWVHA61BX&otracker=hp_rich_navigation_6_1.navigationCard.RICH_NAVIGATION_Appliances_LO4IWVHA61BX&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_6_L0_view-all&cid=LO4IWVHA61BX
 ```
 
+
+## Contribution 🤝
+If you're interested in contributing to the development of **LinkHive**, we would love to have you on board! We are constantly looking for ways to improve and add new features, and your contributions can help make LinkHive even more powerful and useful.
+
+### Here are a few ways you can contribute to the project:
+
+- Report bugs or request new features by creating an issue on our GitHub repository.🐛
+- Help us improve the documentation by submitting updates or corrections.📚
+- Contribute code by submitting pull requests with bug fixes or new features.💻
+- Share LinkHive with your friends, colleagues, and on social media to help spread the word and grow the community.📣
+- No matter how you choose to contribute, your help is greatly appreciated! Together, we can make LinkHive the best tool for collecting website   links. Thank you for your support! 🙏
 
 
 ### Licensing
