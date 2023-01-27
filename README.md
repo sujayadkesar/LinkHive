@@ -1,4 +1,4 @@
-<img width="350" height="350" padding-left="50px" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/212470344-2c30f10f-6331-4c46-b0b8-d8e2a2be9327.png">
+<img width="350" height="350" style="padding-left:50px;" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/212470344-2c30f10f-6331-4c46-b0b8-d8e2a2be9327.png">
 
 Welcome to LinkHive 🐝
 The ultimate tool for gathering all the links for a given website!
