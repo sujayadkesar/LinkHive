@@ -2,15 +2,22 @@
 
 <img width="350" height="350" padding-left="50px" alt="front-page port 80-shoopyu" src="https://user-images.githubusercontent.com/95465072/212470344-2c30f10f-6331-4c46-b0b8-d8e2a2be9327.png">
 
+Welcome to LinkHive - the ultimate tool for gathering all the links for a given website!
 
-It will gather all the href attributes inside the webpage for a given target domain
+With LinkHive, you can easily and efficiently crawl any website to collect all of its links. Whether you're a developer looking to analyze a website's structure, a marketer looking to research your competitors, or just someone who wants to save all the links from a favorite website, LinkSpider has got you covered.
+
+Our user-friendly interface makes it simple to input a website URL and get a list of all links on that website, organized and exported in a format that's easy to work with. Plus, with advanced options like the ability to exclude certain URLs or follow only certain types of links, LinkSpider gives you the flexibility to customize your crawl to suit your specific needs.
+
+Don't waste hours manually collecting links one by one. Let LinkSpider do the heavy lifting for you and make your online research more efficient. Give it a try and see the difference for yourself.
+
+Ready to start crawling? Try LinkHive now!
 
 ## Installation 
 ```git clone https://github.com/sujayadkesar/LinkHive.git```
-```cd alllinks```
+```cd LinkHive```
 
 ## Run the script
-```python3 alllinks.py```
+```python3 linkhive.py```
 
 
 
