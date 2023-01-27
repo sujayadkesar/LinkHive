@@ -6,7 +6,7 @@
 It will gather all the href attributes inside the webpage for a given target domain
 
 ## Installation 
-```git clone https://github.com/sujayadkesar/alllinks.git```
+```git clone https://github.com/sujayadkesar/LinkHive.git```
 ```cd alllinks```
 
 ## Run the script
