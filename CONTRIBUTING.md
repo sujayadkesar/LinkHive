@@ -19,11 +19,11 @@ There are many ways to contribute to LinkHive, and we appreciate any help you ca
 
 ## Code of Conduct
 
-LinkHive has a [Code of Conduct](https://github.com/your-username/LinkHive/blob/main/CODE_OF_CONDUCT.md) that all contributors should follow. Please make sure to read and understand it before contributing.
+LinkHive has a [Code of Conduct](https://github.com/sujayadkesar/LinkHive/blob/main/CODE_OF_CONDUCT.md) that all contributors should follow. Please make sure to read and understand it before contributing.
 
 ## License
 
-LinkHive is released under the [MIT License](https://github.com/your-username/LinkHive/blob/main/LICENSE). By contributing to LinkHive, you agree to license your contributions under the same license.
+LinkHive is released under the [MIT License](https://github.com/sujayadkesar/LinkHive/blob/main/LICENSE). By contributing to LinkHive, you agree to license your contributions under the same license.
 
 ## Contact
 
